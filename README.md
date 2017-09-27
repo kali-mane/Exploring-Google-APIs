@@ -8,8 +8,7 @@ The script needs two input parameters -
 -i input_file  = input image name along with the input path
 -o output_file = path and name to store the processed image
 
-youtube_videos : This will fetch the list of top 10 youtube videos and their description based on the order like viewCount, rating etc. The script uses Google's Youtube api.
-
+youtube_videos : This will fetch the list of top 10 youtube videos and their description based on the order like viewCount, rating etc. The script uses Google's Youtube api. 
 The script needs three input parameters -
 -k developer_key = used to access the api
 -q query         = search keyword to be searched
