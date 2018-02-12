@@ -15,10 +15,9 @@ The script uses Google's Youtube api.
     The script needs three input parameters -
     -k developer_key = used to access the api
     -q query         = search keyword to be searched
-    -o order         = used to order the videos in the response based on date, rating, relevance, videoCount, viewCount
+    -o order         = used to order the videos in the response based on date, rating, relevance, videoCount etc
 
-
-visionapi_test.py : This will recognize the image being processed
+visionapi_test.py : The script uses Google Cloud Vision API to recognize the image being processed.
     
     The script needs one input parameter -
     -i   image_file  = input image file
