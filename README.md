@@ -1,5 +1,4 @@
-# python
-Random python codes
+# Exploring Google APIs
 
 Author : Maneesha Vinayak
 
@@ -10,7 +9,8 @@ face_detection : This will detect the face of a person in an image. The script u
     -o output_file = path and name to store the processed image
 
 
-youtube_videos : This will fetch the list of top 10 youtube videos and their description based on the order like viewCount, rating etc. The script uses Google's Youtube api. 
+youtube_videos : This will fetch the list of top 10 youtube videos and their description based on the order like viewCount, rating etc.
+The script uses Google's Youtube api. 
   
     The script needs three input parameters -
     -k developer_key = used to access the api
